@@ -2,7 +2,7 @@
 **Football world cup analysis from 1930 to 2022.
 
 - Dataset by - Kaggle
-- Analyzed the data of 1700+ Football matches from 1930 to 2022, and visualize the amazing history of FIFA world cup in power BI. 
+- Analyzed the data of 1700+ Football matches from 1930 to 2022, and visualize the amazing history of FIFA world cup football matches in power BI. 
 - Please check out the live interactive dashboard on novyPro - (https://www.novypro.com/project/fifa-world-cup-analysis-dashboard)
 
 ## Here are some takeaways from the analysis
